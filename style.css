@@ -1,0 +1,16 @@
+body{
+     background-color:palevioletred;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+button{
+    background-color:rgb(236, 35, 35);
+    color:aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
